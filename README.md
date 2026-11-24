@@ -1,45 +1,34 @@
-# สวัสดีครับ/ค่ะ ผม/ดิฉันชื่อ [ชื่อของคุณ] 👋
+# นาย ธันยานิษฐ อินทนาศักดิ์ 👋
 
-**[ตำแหน่งงาน / สายงาน เช่น Full-Stack Developer | Data Analyst | CS Student]** ที่หลงใหลในการสร้างสรรค์โซลูชันและพัฒนาซอฟต์แวร์ให้ใช้งานได้จริง
+**นิสิตชั้นปีที่ 2 คณะศิลปศาสตร์และวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ**  
+**มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)** 🌿
 
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์: **[ชื่อโปรเจกต์ที่กำลังทำ หรือลิงก์]**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[เทคโนโลยีที่กำลังศึกษา เช่น Cloud Architecture, AI/ML]**
-- 👯 เปิดรับโอกาสในการร่วมงานด้าน: **[สายงานหรือโปรเจกต์ที่สนใจ]**
-- 📫 ช่องทางการติดต่อ: **[อีเมลของคุณ]** หรือ **[ลิงก์ LinkedIn / Portfolio]**
+มีความสนใจในการพัฒนาซอฟต์แวร์และการแก้ปัญหาด้วยเทคโนโลยี กำลังมุ่งมั่นพัฒนาทักษะการเขียนโปรแกรมผ่านการทำโปรเจกต์รายวิชาและการศึกษาเพิ่มเติมด้วยตัวเอง เพื่อเตรียมความพร้อมสู่สายงาน Software Development
+
+- 🎓 การศึกษา: **ชั้นปีที่ 2 คณะศิลปศาสตร์และวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ ม.เกษตรฯ กำแพงแสน**
+- 🔭 โปรเจกต์ที่กำลังทำ: **ชื่อโปรเจกต์วิชาเรียน หรือ โปรเจกต์ส่วนตัว เช่น ระบบจัดการหอพัก, เว็บแอปพลิเคชั่น**
+- 🌱 กำลังเรียนรู้: **วิชาหรือสกิลที่กำลังเรียนในเทอมนี้ OOP, Web Development, Database**
+- 💡 สนใจด้าน: **สายงานที่สนใจ เช่น Full-Stack Development, Mobile App, Data Science, AI**
+- 📫 ช่องทางติดต่อ: **อีเมล tanyanit.i@ku.th**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
+**Programming Languages:**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Web & Database:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Tools:**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📌 Featured Projects
-
-| โปรเจกต์ | รายละเอียด | Tech Stack |
-| :--- | :--- | :--- |
-| **[ชื่อโปรเจกต์ 1](ลิงก์-Repo)** | อธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไร แก้ปัญหาอะไร | React, Node.js |
-| **[ชื่อโปรเจกต์ 2](ลิงก์-Repo)** | อธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไร แก้ปัญหาอะไร | Python, FastAPI |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
